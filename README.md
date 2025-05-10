@@ -31,7 +31,7 @@ This repo is intended for central place to easily find information about the Rad
 * [CNX Software: Radxa Orion O6 Review Part1](https://www.cnx-software.com/2025/01/29/radxa-orion-o6-review-unboxing-debian-12-installation-and-first-benchmarks/)  
 * [Jeff Geerling: Orion O6 ITX Arm V9 Board](https://www.jeffgeerling.com/blog/2025/orion-o6-itx-arm-v9-board-temper-your-expectations)  
 * [xda-developers: Radxa Orion O6 Review](https://www.xda-developers.com/radxa-orion-o6-review/)
-* [Jeff Geering: Radxa Orion O6 brings Arm to the midrange PC](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc）
+* [Jeff Geering: Radxa Orion O6 brings Arm to the midrange PC](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc)
 
 **Videos:**  
 * [芯板坊](https://www.bilibili.com/video/BV17A6zY1E1Y/)  
