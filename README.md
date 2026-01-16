@@ -17,10 +17,23 @@ This repo is intended for central place to easily find information about the Rad
 * https://tensilicatools.com/platform/radxa-orion-o6/  
 
 **Fedora Images:**  
-* https://images.arm.fedoravforce.org/Orion%20O6  
+* https://images.arm.fedoravforce.org/Orion%20O6
 
-**Open Source:**  
-* https://gitlab.com/cix-linux/  
+**Linux Kernel**
+* Radxa
+* https://gitlab.com/cix-linux/cix_opensource/linux (original from CIX)
+* https://github.com/radxa/kernel/tree/874c4/bbdf2/cix_beta2_radxa_dev (2024Q4, v6.1 DT only) 
+* https://github.com/radxa/kernel/tree/874c4/78b98/cix_p1_radxa_acpi_beta_dev (2025Q2, v6.6 ACPI)
+* https://github.com/radxa/kernel/tree/ee8f6/48bff/cix_p1_K6.6_2025Q3_dev_patch (2025Q3, v6.6 DT&ACPI)
+* https://github.com/radxa-pkg/radxa-firmware/tree/main/firmware
+
+* Community
+* https://github.com/armbian/linux-cix/ (v6.6 based on 2025Q3, with Panthor support)
+* https://github.com/Sky1-linux (v6.18)
+* https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/ (Wi-Fi, etc.)
+
+* CIX (official)
+* https://github.com/cixtech/
 
 **Jishu Community:**  
 * https://aijishu.com/blog/cixinaipckaifaba  
@@ -29,6 +42,7 @@ This repo is intended for central place to easily find information about the Rad
 * CIX Model Hub: https://www.modelscope.cn/models/cix/ai_model_hub_25_Q3
 * Jishu AILab: https://aijishu.com/ailab
 * Radxa Guide: https://docs.radxa.com/en/orion/o6/app-development/artificial-intelligence
+* Arm Learning Paths: https://learn.arm.com/learning-paths/cross-platform/ernie_moe_v9
 
 **Media Articles:**  
 * [Tomshardware: World First Open Source Armv9 Motherboard](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)  
