@@ -1,23 +1,18 @@
 # radxa-orion-o6-info-hub
 This repo is intended for central place to easily find information about the Radxa Orion O6 Devkit
 
-**Product Announcement:**  
-* [radxa_orion_o6_announcement_presentation_2024_12_18.pdf](https://github.com/JammyZhou/radxa-orion-o6-info-hub/blob/main/radxa_orion_o6_announcement_presentation_2024_12_18.pdf)
-
-**Product Page:**  
-* https://radxa.com/products/orion/o6  
-
-**Documentation:**  
-* https://docs.radxa.com/orion/o6  
-
-**Forum:**  
+**Product Info:**  
+* [radxa_orion_o6_announcement_presentation_2024_12_18.pdf](https://github.com/JammyZhou/radxa-orion-o6-info-hub/blob/main/radxa_orion_o6_announcement_presentation_2024_12_18.pdf)  
+* https://radxa.com/products/orion/o6
+* https://docs.radxa.com/orion/o6
 * https://forum.radxa.com/c/orion/o6  
 
 **Tensilica Tools:**  
 * https://tensilicatools.com/platform/radxa-orion-o6/  
 
-**Fedora Images:**  
+**Linux Distros:**  
 * https://images.arm.fedoravforce.org/Orion%20O6
+* https://github.com/cixtech/cix_p1_ubuntu_adaption_debs
 
 **Linux Kernel**
 * Radxa
