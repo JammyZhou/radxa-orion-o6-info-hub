@@ -1,3 +1,8 @@
-1. How to force Mali GPU into Performance Mode?
+1. How to force CPU and GPU into Performance Mode?
+echo performance > /sys/devices/system/cpu/cpufreq/policy0/scaling_governor
+echo performance > /sys/devices/system/cpu/cpufreq/policy1/scaling_governor
+echo performance > /sys/devices/system/cpu/cpufreq/policy5/scaling_governor
+echo performance > /sys/devices/system/cpu/cpufreq/policy7/scaling_governor
+echo performance > /sys/devices/system/cpu/cpufreq/policy9/scaling_governor
 echo always_on > /sys/class/misc/mali0/device/power_policy
 echo performance > /sys/class/misc/mali0/device/devfreq/15000000.gpu/governor
