@@ -1,6 +1,8 @@
 # radxa-orion-o6-info-hub
 This repo is intended for central place to easily find information about the Radxa Orion O6 Devkit
 
+CIX Developer Center: https://developer.cixtech.com/
+
 **Product Info:**  
 * [radxa_orion_o6_announcement_presentation_2024_12_18.pdf](https://github.com/JammyZhou/radxa-orion-o6-info-hub/blob/main/radxa_orion_o6_announcement_presentation_2024_12_18.pdf)  
 * https://radxa.com/products/orion/o6
@@ -11,6 +13,7 @@ This repo is intended for central place to easily find information about the Rad
 * https://tensilicatools.com/platform/radxa-orion-o6/  
 
 **Linux Distros:**  
+* https://discourse.ubuntu.com/t/ubuntu-concept-goes-cix-p1/82213
 * https://images.arm.fedoravforce.org/Orion%20O6
 * https://github.com/cixtech/cix_p1_ubuntu_adaption_debs
 
@@ -37,7 +40,8 @@ This repo is intended for central place to easily find information about the Rad
 * CIX Model Hub: https://www.modelscope.cn/models/cix/ai_model_hub_25_Q3
 * Jishu AILab: https://aijishu.com/ailab
 * Radxa Guide: https://docs.radxa.com/en/orion/o6/app-development/artificial-intelligence
-* Arm Learning Paths: https://learn.arm.com/learning-paths/cross-platform/ernie_moe_v9
+* Arm Learning Paths (Ernie): https://learn.arm.com/learning-paths/cross-platform/ernie_moe_v9
+* Arm Learning Paths (MNN + Qwen Omni): https://learn.arm.com/learning-paths/cross-platform/multimodel_mnn_v9/
 
 **Media Articles:**  
 * [Tomshardware: World First Open Source Armv9 Motherboard](https://www.tomshardware.com/pc-components/motherboards/worlds-first-open-source-armv9-motherboard-surfaces-radxa-orion-o6s-pricing-starts-at-usd200-for-the-8gb-ram-model)  
