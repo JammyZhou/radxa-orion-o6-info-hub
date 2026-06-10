@@ -13,9 +13,10 @@ CIX Developer Center: https://developer.cixtech.com/
 * https://tensilicatools.com/platform/radxa-orion-o6/  
 
 **Linux Distros:**  
-* https://discourse.ubuntu.com/t/ubuntu-concept-goes-cix-p1/82213
-* https://images.arm.fedoravforce.org/Orion%20O6
-* https://github.com/cixtech/cix_p1_ubuntu_adaption_debs
+* Ubuntu Concept Image: https://discourse.ubuntu.com/t/ubuntu-concept-goes-cix-p1/82213
+* Fedora: https://images.arm.fedoravforce.org/Orion%20O6
+* Ubuntu: https://github.com/cixtech/cix_p1_ubuntu_adaption_debs
+* NCZ 26.5 (nclawzero): https://techbroiler.net/honey-i-built-a-linux-distribution/
 
 **Linux Kernel**
 * Radxa
